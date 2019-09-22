@@ -11,4 +11,4 @@ DevOps task 3
 - Ogomegbunnem Daniel Mordi (@Og)  - Member
 - Adekanye Timilehin (@Timmymichael)  - Member
 - Akerele Abraham (@haibeey)  - Member
-
+- Michael Olamikan (@GMike)  - Member
