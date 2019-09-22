@@ -4,10 +4,11 @@ jobs:
     machine:
       enabled: true
     steps:
+      - add_ssh_keys
       - run:
           name: Deploy Over SSH
           command: |
-            - run: scp -o StrictHostKeyChecking=no -r ./index.html ubuntu@78.141.222.65://var//www//html/
+            - run: scp -r ./public/* ubuntu@78.141.222.65:/var//www/html/
 
 workflows:
   version: 2
