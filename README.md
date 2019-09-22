@@ -7,4 +7,5 @@ Adekanye Timilehin
 
 - Mike Perry Yeboah Attara (@mikeattara) - Team Lead
 - Emmanuel Oaikhenan (@emma_odia)
-- Chukwuemeka Christian (@Mekus)  -Member
+- Chukwuemeka Christian (@Mekuos)  -Member
+- Ogomegbunnem Daniel Mordi (@Og)  -Member
