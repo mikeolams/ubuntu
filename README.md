@@ -10,4 +10,5 @@ DevOps task 3
 - Chukwuemeka Christian (@Mekus)  - Member
 - Ogomegbunnem Daniel Mordi (@Og)  - Member
 - Adekanye Timilehin (@Timmymichael)  - Member
+- Akerele Abraham (@haibeey)  - Member
 
