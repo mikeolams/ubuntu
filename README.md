@@ -12,4 +12,4 @@ DevOps task 3
 - Adekanye Timilehin (@Timmymichael)  - Member
 - Akerele Abraham (@haibeey)  - Member
 - Michael Olamikan (@GMike)  - Member
-- Ugwu Patrick Tobechukwu    - Member
+- Ugwu Patrick Tobechukwu (@Tobychuks)- Member
