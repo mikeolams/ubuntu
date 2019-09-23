@@ -12,4 +12,8 @@ DevOps task 3
 - Adekanye Timilehin (@Timmymichael)  - Member
 - Akerele Abraham (@haibeey)  - Member
 - Michael Olamikan (@GMike)  - Member
+<<<<<<< HEAD
 - Ugwu Patrick Tobechukwu (@Tobychuks)- Member
+=======
+- Ugwu Patrick Tobechukwu (@Tobychuks) - Member
+>>>>>>> add member
