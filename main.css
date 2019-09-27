@@ -1,0 +1,88 @@
+/* Font-family: Montserrat */
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    padding: 2em 4em;
+    display: flex;
+}
+
+.side-bar {
+    min-width: 20%;
+    /* background: #000; */
+    height: 100%;
+    /* position: ; */
+}
+
+.side-bar h1 {
+    text-transform: uppercase;
+    font-size: 26px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.side-bar .team-members {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.team-members h3 {
+    font-weight: normal;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.team-members li {
+    list-style: none;
+    margin-top: 10px;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+.main-content {
+    padding: 2em;
+}
+
+.main-content .post {
+    margin: 5px 0;
+}
+
+.post-body {
+    font-size: 16.5px
+}
+
+.post-body h2 {
+    border-bottom: 2px solid #111;
+}
+
+.post-body a {
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 1px solid #306ea2;
+    padding: 8px 20px;
+    display: block;
+    width: 20%;
+    margin-top: 10px;
+    color: #111;
+    font-weight: 600;
+    font-size: 12.5px;
+    background: #306ea2;
+    color: #fff;
+}
+
+.post-body span {
+    display: inline-block;
+    margin-right: 5px;
+    margin-top: 5px;
+}
