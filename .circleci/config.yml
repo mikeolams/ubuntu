@@ -8,11 +8,7 @@ jobs:
       - run:
           name: Deploy Over SSH
           command: |
-<<<<<<< HEAD
             - run: ssh $USER_NAME@$HOST "update.sh"
-=======
-            - run: scp -r ubuntu/public/* ubuntu@78.141.222.65:/var/www/html/
->>>>>>> 69b5ab471572e0e5ec6b3a7b4c9de1bae2d4cfdf
 
 workflows:
   version: 2
