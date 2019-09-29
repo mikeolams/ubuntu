@@ -1,0 +1,20 @@
+version: 2
+jobs:
+  deploy:
+    machine:
+      enabled: true
+    steps:
+      - add_ssh_keys
+      - run:
+          name: Deploy Over SSH
+          command: |
+            - run: ssh $USER_NAME@$HOST "update.sh"
+
+workflows:
+  version: 2
+  deploy:
+    jobs:
+      - deploy:
+          filters:
+            branches:
+              only: master
